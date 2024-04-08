@@ -6,4 +6,4 @@
 
 Codepen URL: [https://codepen.io/zer0fr0st93/full/GGmmmJ](https://codepen.io/zer0fr0st93/full/GGmmmJ)
 
-Live URL: https://zer0fr0st93.github.io/Product-Landing-Page/
+Live URL: [(https://billgeorgop93.github.io/Product-Landing-Page/)]
